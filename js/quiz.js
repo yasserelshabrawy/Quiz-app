@@ -17,7 +17,7 @@ export class Quiz {
   endQuiz() {
     const end = `
         <div
-        class="question shadow-lg col-lg-6 offset-lg-3  p-4 rounded-3 d-flex flex-column justify-content-center align-items-center gap-3"
+        class="question shadow-lg col-lg-6 mx-auto  p-4 rounded-3 d-flex flex-column justify-content-center align-items-center gap-3"
       >
         <h2 class="mb-0">
         ${
